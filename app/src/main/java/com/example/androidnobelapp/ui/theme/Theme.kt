@@ -11,16 +11,16 @@ import androidx.compose.ui.graphics.toArgb
 import androidx.compose.ui.platform.LocalView
 
 private val DarkColorPalette = darkColors(
-    primary = Purple200,
+    primary = DarkGreen,
     primaryVariant = Purple700,
-    secondary = Teal200,
+    secondary = DarkGrey,
     background = DarkGreen
 )
 
 private val LightColorPalette = lightColors(
-    primary = Purple500,
+    primary = LightGreen,
     primaryVariant = Purple700,
-    secondary = Teal200,
+    secondary = LightGrey,
     background = LightGreen
 
     /* Other default colors to override
